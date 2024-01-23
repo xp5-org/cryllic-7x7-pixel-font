@@ -1,3 +1,7 @@
+// https://opengameart.org/content/monospace-bitmap-fonts-english-russian
+// from Vasiliy Edomin , public domain license
+
+
 
 const unsigned short cryllic7x7[32][7] = {
 {0x0000000,0x0011000,0x0100100,0x0100100,0x0111100,0x0100100,0x0000000}, // А
